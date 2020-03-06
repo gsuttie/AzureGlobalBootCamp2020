@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureGlobalBootCamp2020", "AzureGlobalBootCamp2020\AzureGlobalBootCamp2020.csproj", "{72E57922-B65E-4D31-A981-27243FD4565F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E57922-B65E-4D31-A981-27243FD4565F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E57922-B65E-4D31-A981-27243FD4565F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E57922-B65E-4D31-A981-27243FD4565F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E57922-B65E-4D31-A981-27243FD4565F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE5C766-25C4-4AC9-B9E5-06E9E2706C0E}
+	EndGlobalSection
+EndGlobal
