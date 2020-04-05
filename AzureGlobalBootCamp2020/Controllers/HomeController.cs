@@ -28,6 +28,11 @@ namespace AzureGlobalBootCamp2020.Controllers
             return View();
         }
 
+        public IActionResult CodeOfConduct()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
