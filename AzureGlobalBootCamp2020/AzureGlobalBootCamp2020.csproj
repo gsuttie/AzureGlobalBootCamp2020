@@ -5,6 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\images\hostedby\**" />
+    <Content Remove="wwwroot\images\hostedby\**" />
+    <EmbeddedResource Remove="wwwroot\images\hostedby\**" />
+    <None Remove="wwwroot\images\hostedby\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
   </ItemGroup>
 
